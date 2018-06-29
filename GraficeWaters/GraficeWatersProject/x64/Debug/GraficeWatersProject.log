@@ -1,0 +1,6 @@
+﻿  Generator.cpp
+d:\facultate\practica waters\clone\watersproject2018-master\graficewaters\graficewatersproject\generator.cpp(23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\facultate\practica waters\clone\watersproject2018-master\graficewaters\graficewatersproject\generator.cpp(60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Graph.cpp
+  Generating Code...
+  GraficeWatersProject.vcxproj -> D:\Facultate\Practica Waters\Clone\WatersProject2018-master\GraficeWaters\x64\Debug\GraficeWatersProject.exe
